@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Memory-game-react/static/css/main.b51fbbbd.chunk.css",
+    "main.js": "/Memory-game-react/static/js/main.02d8bcf7.chunk.js",
+    "main.js.map": "/Memory-game-react/static/js/main.02d8bcf7.chunk.js.map",
+    "runtime-main.js": "/Memory-game-react/static/js/runtime-main.92d3d545.js",
+    "runtime-main.js.map": "/Memory-game-react/static/js/runtime-main.92d3d545.js.map",
+    "static/js/2.5655f0b3.chunk.js": "/Memory-game-react/static/js/2.5655f0b3.chunk.js",
+    "static/js/2.5655f0b3.chunk.js.map": "/Memory-game-react/static/js/2.5655f0b3.chunk.js.map",
+    "static/js/3.74203ffd.chunk.js": "/Memory-game-react/static/js/3.74203ffd.chunk.js",
+    "static/js/3.74203ffd.chunk.js.map": "/Memory-game-react/static/js/3.74203ffd.chunk.js.map",
+    "index.html": "/Memory-game-react/index.html",
+    "static/css/main.b51fbbbd.chunk.css.map": "/Memory-game-react/static/css/main.b51fbbbd.chunk.css.map",
+    "static/js/2.5655f0b3.chunk.js.LICENSE.txt": "/Memory-game-react/static/js/2.5655f0b3.chunk.js.LICENSE.txt",
+    "static/media/Brook.jpg": "/Memory-game-react/static/media/Brook.9a603d1c.jpg",
+    "static/media/Chopper.jpg": "/Memory-game-react/static/media/Chopper.88ccd52c.jpg",
+    "static/media/Franky.jpg": "/Memory-game-react/static/media/Franky.cd6855a4.jpg",
+    "static/media/Jinbei.png": "/Memory-game-react/static/media/Jinbei.4d26d735.png",
+    "static/media/Kidd.jpg": "/Memory-game-react/static/media/Kidd.00b73f0d.jpg",
+    "static/media/Law.jpg": "/Memory-game-react/static/media/Law.3b1b2c0e.jpg",
+    "static/media/Luffy.jpg": "/Memory-game-react/static/media/Luffy.d7aaa27d.jpg",
+    "static/media/Nami.jpg": "/Memory-game-react/static/media/Nami.f1229678.jpg",
+    "static/media/Robin.jpg": "/Memory-game-react/static/media/Robin.121a9f42.jpg",
+    "static/media/Sanji.jpg": "/Memory-game-react/static/media/Sanji.a61e6624.jpg",
+    "static/media/Usopp.png": "/Memory-game-react/static/media/Usopp.86ffe5cc.png",
+    "static/media/Zoro.jpg": "/Memory-game-react/static/media/Zoro.361e0ffe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92d3d545.js",
+    "static/js/2.5655f0b3.chunk.js",
+    "static/css/main.b51fbbbd.chunk.css",
+    "static/js/main.02d8bcf7.chunk.js"
+  ]
+}
